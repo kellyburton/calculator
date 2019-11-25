@@ -1,5 +1,8 @@
 package com.leszko.calculator;
 import org.springframework.stereotype.Service;
+/**
+ * Main Spring Service.
+ */
 
 @Service
 public class Calculator {
